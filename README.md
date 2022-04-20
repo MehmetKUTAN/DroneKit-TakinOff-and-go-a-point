@@ -1,5 +1,5 @@
 # DroneKit-TakinOff-and-go-a-point
-MehmetKUTAN/DroneKit-TakinOff-and-go-a-point
+
 
 This code explains how to air your Copter.
 The code below shows the function of arming, taking off and flying a Helicopter to a certain altitude
